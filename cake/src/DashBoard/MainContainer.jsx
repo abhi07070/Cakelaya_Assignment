@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Home from "../Home/Home"; // Ensure the correct path
+import Home from "../Home/Home";
 import { useNavigate } from "react-router-dom";
 
 const MainContent = ({ selectedMenu }) => {
